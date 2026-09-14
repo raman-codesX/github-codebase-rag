@@ -1,6 +1,7 @@
-langchain-text-splitters
-sentence-transformers
+streamlit
 faiss-cpu
 requests
-openai
 python-dotenv
+sentence-transformers
+rank-bm25
+openai
