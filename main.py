@@ -3,7 +3,6 @@ import faiss
 import base64
 import requests
 import streamlit as st
-
 from openai import OpenAI
 from dotenv import load_dotenv
 from langchain_text_splitters import RecursiveCharacterTextSplitter
